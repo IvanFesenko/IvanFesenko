@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
 
-<br />
+---
 
 <!-- <summary>:zap: Github Stats</summary> -->
 
 <img align="left" alt="Ivan's Fesenko Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=IvanFesenko&show_icons=true&hide_border=true" />
 
-<br />
+---
 
 ### Connect with me:
 
