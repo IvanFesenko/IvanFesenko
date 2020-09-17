@@ -43,10 +43,12 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+---
+
 <details>
   <summary>:zap: Github Stats</summary>
 
-<img alt="IvanFesenko's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=IvanFesenko&show_icons=true&hide_border=true" />
+<img align="left" alt="IvanFesenko's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=IvanFesenko&show_icons=true&hide_border=true" />
 
 </details>
 
