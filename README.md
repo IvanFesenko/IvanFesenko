@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 ## I'm a Husband, Father and almost Junior Developer!
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
+- 🔭 I’m currently working on my own App
+
 
 <br />
 
