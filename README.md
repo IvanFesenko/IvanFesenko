@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a Husband, Father and almost Junior Developer!
+## I'm a Husband, Father and Junior Developer!
 
 - 🌱 I’m currently learning React
 - 🔭 I’m currently working on my own App
