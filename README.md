@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a Husband, Father and Junior Developer!
-
-- 🌱 I’m currently learning React
-- 🔭 I’m currently working on my own App
-
+## Under construction
 
 <br />
 
@@ -55,7 +51,5 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://instagram.com/did1van
 [linkedin]: https://www.linkedin.com/in/ivan-fesenko-ba56b21a5
